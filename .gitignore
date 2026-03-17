@@ -1,0 +1,13 @@
+train_transaction.csv
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+check.py
+flowchart.py
+engine . py backup.txt
+datathon ppt template.pdf
+venv/
+.env/
+.DS_Store
+Thumbs.db
