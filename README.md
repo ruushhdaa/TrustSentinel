@@ -111,6 +111,26 @@ Login credentials:
 
 ---
 
+---
+
+## Prototype Screenshots
+
+### Live Feed - Bank View
+![Live Feed - Bank View](assets/live_feed_bank.png)
+
+### Alert Terminal - Bank View
+![Alert Terminal - Bank View](assets/alert_terminal_bank.png)
+
+### Network Graph - Bank View
+![Network Graph - Bank View](assets/network_graph_bank.png)
+
+### Block Alert - Customer View
+![Block Alert - Customer View](assets/block_alert_customer.png)
+
+
+---
+
+
 ## Team PARADIGM
 
 - Manaswi Mishra
