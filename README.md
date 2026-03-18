@@ -8,7 +8,6 @@ Built for Datathon 2026 by Team PARADIGM.
 ## Live Links
 
 - Live Demo: https://trustsentinel-paradigm.streamlit.app
-- GitHub Repo: https://github.com/ruushhdaa/TrustSentinel
 - Prototype Screenshots: Available in this repository under assets/
 
 ---
