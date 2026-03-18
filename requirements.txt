@@ -3,8 +3,7 @@ numpy
 scikit-learn
 imbalanced-learn
 shap
-streamlit==1.19.0
-altair<5
+streamlit>=1.35
 plotly
 networkx
 matplotlib
