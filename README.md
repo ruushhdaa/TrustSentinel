@@ -130,7 +130,6 @@ Login credentials:
 
 ---
 
-
 ## Team PARADIGM
 
 - Manaswi Mishra
