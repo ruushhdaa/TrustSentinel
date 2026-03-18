@@ -5,10 +5,19 @@ Real-time UPI fraud detection engine with per-card behavioral profiling and expl
 Built for Datathon 2026 by Team PARADIGM.
 
 ---
+## Live Links
+
+- Live Demo: https://trustsentinel-paradigm.streamlit.app
+- GitHub Repo: https://github.com/ruushhdaa/TrustSentinel
+- Prototype Screenshots: Available in this repository under assets/
+
+---
 
 ## Problem Statement
 
 Fraud detection in UPI / digital payments (PS-07)
+
+---
 
 ## Core Idea
 
