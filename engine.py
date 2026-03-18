@@ -14,8 +14,19 @@ warnings.filterwarnings('ignore')
 # STEP 1: LOAD DATA
 # =====================
 
+import os
+
 print("Loading data...")
-df = pd.read_csv('train_transaction.csv')
+
+LOCAL_FILE = 'train_transaction.csv'
+DEMO_FILE = 'demo_transactions.csv'
+
+if os.path.exists(LOCAL_FILE):
+    df = pd.read_csv(LOCAL_FILE)
+    print("Using full local dataset: train_transaction.csv")
+else:
+    df = pd.read_csv(DEMO_FILE)
+    print("Using demo dataset: demo_transactions.csv")
 
 # =====================
 # STEP 2: MORE FEATURES
