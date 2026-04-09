@@ -1,2 +1,3 @@
 - [2026-04-09T21:38:52] refactor(engine): tune Random Forest decision thresholds
 - [2026-04-09T12:52:32] test(rules): add unit test coverage for Tier-1 hard rules
+- [2026-04-09T21:13:29] test(rules): add unit test coverage for Tier-1 hard rules
