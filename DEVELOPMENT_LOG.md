@@ -5,3 +5,4 @@
 - [2026-04-09T14:29:21] docs(smote): document dataset class balancing pipeline
 - [2026-04-10T18:01:38] docs(smote): document dataset class balancing pipeline
 - [2026-04-10T22:52:30] test(rules): add unit test coverage for Tier-1 hard rules
+- [2026-04-10T11:20:23] style(streamlit): refine risk score gauge visualization
