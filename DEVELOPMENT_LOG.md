@@ -10,3 +10,4 @@
 - [2026-04-11T15:51:26] refactor(engine): tune Random Forest decision thresholds
 - [2026-04-11T15:18:00] docs(smote): document dataset class balancing pipeline
 - [2026-04-11T18:33:23] docs(smote): document dataset class balancing pipeline
+- [2026-04-11T18:45:13] docs(smote): document dataset class balancing pipeline
