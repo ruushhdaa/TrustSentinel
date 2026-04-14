@@ -19,3 +19,4 @@
 - [2026-04-13T22:25:51] feat(shap): optimize local SHAP value generation speed
 - [2026-04-14T10:01:45] feat(shap): optimize local SHAP value generation speed
 - [2026-04-14T12:38:32] refactor(engine): tune Random Forest decision thresholds
+- [2026-04-14T11:19:03] style(streamlit): refine risk score gauge visualization
