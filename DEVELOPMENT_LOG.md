@@ -24,3 +24,4 @@
 - [2026-04-15T10:29:45] docs(smote): document dataset class balancing pipeline
 - [2026-04-15T18:08:28] docs(smote): document dataset class balancing pipeline
 - [2026-04-15T16:34:51] refactor(engine): tune Random Forest decision thresholds
+- [2026-04-16T15:24:30] feat(shap): optimize local SHAP value generation speed
