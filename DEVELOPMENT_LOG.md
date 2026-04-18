@@ -28,3 +28,4 @@
 - [2026-04-16T22:51:17] docs(smote): document dataset class balancing pipeline
 - [2026-04-18T21:17:43] feat(shap): optimize local SHAP value generation speed
 - [2026-04-18T18:35:10] refactor(engine): tune Random Forest decision thresholds
+- [2026-04-18T15:46:57] style(streamlit): refine risk score gauge visualization
