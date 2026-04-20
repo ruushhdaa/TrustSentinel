@@ -34,3 +34,4 @@
 - [2026-04-19T22:33:05] feat(shap): optimize local SHAP value generation speed
 - [2026-04-19T14:30:53] docs(smote): document dataset class balancing pipeline
 - [2026-04-20T17:36:25] docs(smote): document dataset class balancing pipeline
+- [2026-04-20T18:42:26] style(streamlit): refine risk score gauge visualization
