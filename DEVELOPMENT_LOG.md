@@ -42,3 +42,4 @@
 - [2026-04-22T15:31:41] test(rules): add unit test coverage for Tier-1 hard rules
 - [2026-04-22T15:14:28] refactor(engine): tune Random Forest decision thresholds
 - [2026-04-22T16:28:10] test(rules): add unit test coverage for Tier-1 hard rules
+- [2026-04-22T20:17:52] docs(smote): document dataset class balancing pipeline
