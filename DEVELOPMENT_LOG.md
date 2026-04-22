@@ -39,3 +39,4 @@
 - [2026-04-20T17:21:03] docs(smote): document dataset class balancing pipeline
 - [2026-04-21T22:16:15] docs(smote): document dataset class balancing pipeline
 - [2026-04-21T11:24:31] refactor(engine): tune Random Forest decision thresholds
+- [2026-04-22T15:31:41] test(rules): add unit test coverage for Tier-1 hard rules
