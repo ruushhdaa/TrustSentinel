@@ -46,3 +46,4 @@
 - [2026-04-23T15:26:23] feat(shap): optimize local SHAP value generation speed
 - [2026-04-23T18:21:49] test(rules): add unit test coverage for Tier-1 hard rules
 - [2026-04-23T14:57:37] feat(shap): optimize local SHAP value generation speed
+- [2026-04-23T21:10:14] style(streamlit): refine risk score gauge visualization
