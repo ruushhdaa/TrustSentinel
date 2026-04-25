@@ -53,3 +53,4 @@
 - [2026-04-24T18:41:37] refactor(engine): tune Random Forest decision thresholds
 - [2026-04-24T14:33:05] style(streamlit): refine risk score gauge visualization
 - [2026-04-25T16:58:49] style(streamlit): refine risk score gauge visualization
+- [2026-04-25T17:17:01] docs(smote): document dataset class balancing pipeline
