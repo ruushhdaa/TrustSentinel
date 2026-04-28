@@ -56,3 +56,4 @@
 - [2026-04-25T17:17:01] docs(smote): document dataset class balancing pipeline
 - [2026-04-28T16:17:14] test(rules): add unit test coverage for Tier-1 hard rules
 - [2026-04-28T17:36:13] docs(smote): document dataset class balancing pipeline
+- [2026-04-28T22:55:47] docs(smote): document dataset class balancing pipeline
