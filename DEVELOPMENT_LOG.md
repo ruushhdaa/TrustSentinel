@@ -58,3 +58,4 @@
 - [2026-04-28T17:36:13] docs(smote): document dataset class balancing pipeline
 - [2026-04-28T22:55:47] docs(smote): document dataset class balancing pipeline
 - [2026-05-02T12:47:29] feat(shap): optimize local SHAP value generation speed
+- [2026-05-02T14:08:34] docs(smote): document dataset class balancing pipeline
