@@ -61,3 +61,4 @@
 - [2026-05-02T14:08:34] docs(smote): document dataset class balancing pipeline
 - [2026-05-02T17:03:09] test(rules): add unit test coverage for Tier-1 hard rules
 - [2026-05-03T13:45:52] refactor(engine): tune Random Forest decision thresholds
+- [2026-05-03T18:32:34] style(streamlit): refine risk score gauge visualization
