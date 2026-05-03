@@ -60,3 +60,4 @@
 - [2026-05-02T12:47:29] feat(shap): optimize local SHAP value generation speed
 - [2026-05-02T14:08:34] docs(smote): document dataset class balancing pipeline
 - [2026-05-02T17:03:09] test(rules): add unit test coverage for Tier-1 hard rules
+- [2026-05-03T13:45:52] refactor(engine): tune Random Forest decision thresholds
