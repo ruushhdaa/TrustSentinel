@@ -63,3 +63,4 @@
 - [2026-05-03T13:45:52] refactor(engine): tune Random Forest decision thresholds
 - [2026-05-03T18:32:34] style(streamlit): refine risk score gauge visualization
 - [2026-05-04T19:50:53] style(streamlit): refine risk score gauge visualization
+- [2026-05-04T21:44:27] test(rules): add unit test coverage for Tier-1 hard rules
