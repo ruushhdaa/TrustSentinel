@@ -64,3 +64,4 @@
 - [2026-05-03T18:32:34] style(streamlit): refine risk score gauge visualization
 - [2026-05-04T19:50:53] style(streamlit): refine risk score gauge visualization
 - [2026-05-04T21:44:27] test(rules): add unit test coverage for Tier-1 hard rules
+- [2026-05-06T10:51:32] docs(smote): document dataset class balancing pipeline
