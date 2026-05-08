@@ -72,3 +72,4 @@
 - [2026-05-08T10:47:22] test(rules): add unit test coverage for Tier-1 hard rules
 - [2026-05-08T12:58:00] feat(shap): optimize local SHAP value generation speed
 - [2026-05-08T14:14:55] docs(smote): document dataset class balancing pipeline
+- [2026-05-08T16:12:24] docs(smote): document dataset class balancing pipeline
